@@ -1,0 +1,24 @@
+{
+  "key": "BC-1101",
+  "cohort": "蒸养线二",
+  "day": 2,
+  "received": 3,
+  "revision": 1,
+  "result_day": 5,
+  "outcome": 1.0,
+  "observed": true,
+  "form": {
+    "蒸养抄表": {
+      "soak_seconds": 18720,
+      "peak_deci_c": 550
+    },
+    "待压试块": {
+      "binder_per_batch": 351000,
+      "water_permille": 510
+    },
+    "脱模记录": {
+      "dual_probe_deci_c": 40,
+      "demold_age_minutes": 900
+    }
+  }
+}
